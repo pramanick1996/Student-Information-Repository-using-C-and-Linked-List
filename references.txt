@@ -1,0 +1,4 @@
+1. https://stackoverflow.com/questions/7898215/how-can-i-clear-an-input-buffer-in-c?newreg=26c733cba7cf411abd93b72507f104bd
+2. https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming
+3. https://www.naukri.com/code360/library/what-is-the-segmentation-fault-in-cc
+4. https://stackoverflow.com/questions/2661766/how-do-i-lowercase-a-string-in-c
